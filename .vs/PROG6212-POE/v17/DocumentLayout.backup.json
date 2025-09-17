@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\jarre\\onedrive\\desktop\\prog6212-poe\\prog6212-poe\\views\\claim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|solutionrelative:prog6212-poe\\views\\claim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\jarre\\onedrive\\desktop\\prog6212-poe\\prog6212-poe\\views\\contract\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\lab_services_student\\desktop\\prog6212-poe\\prog6212-poe\\views\\contract\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|solutionrelative:prog6212-poe\\views\\contract\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\jarre\\onedrive\\desktop\\prog6212-poe\\prog6212-poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|solutionrelative:prog6212-poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\lab_services_student\\desktop\\prog6212-poe\\prog6212-poe\\views\\claim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|solutionrelative:prog6212-poe\\views\\claim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\jarre\\onedrive\\desktop\\prog6212-poe\\prog6212-poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|solutionrelative:prog6212-poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\lab_services_student\\desktop\\prog6212-poe\\prog6212-poe\\views\\claim\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|solutionrelative:prog6212-poe\\views\\claim\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|c:\\users\\lab_services_student\\desktop\\prog6212-poe\\prog6212-poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5789F89D-7BB1-4186-BCCB-9C0EBB27473A}|PROG6212-POE\\PROG6212-POE.csproj|solutionrelative:prog6212-poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Claim\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Claim\\Index.cshtml",
               "RelativeDocumentMoniker": "PROG6212-POE\\Views\\Claim\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Claim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Claim\\Index.cshtml",
               "RelativeToolTip": "PROG6212-POE\\Views\\Claim\\Index.cshtml",
-              "ViewState": "AgIAAMIAAAAAAAAAAAAQwNwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAYwMsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T17:00:27.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Contract\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Contract\\Index.cshtml",
               "RelativeDocumentMoniker": "PROG6212-POE\\Views\\Contract\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Contract\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Contract\\Index.cshtml",
               "RelativeToolTip": "PROG6212-POE\\Views\\Contract\\Index.cshtml",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAIwKIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAYwJEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T17:00:24.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PROG6212-POE\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PROG6212-POE\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Claim\\Create.cshtml",
+              "RelativeDocumentMoniker": "PROG6212-POE\\Views\\Claim\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Claim\\Create.cshtml",
+              "RelativeToolTip": "PROG6212-POE\\Views\\Claim\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T17:00:17.708Z",
+              "WhenOpened": "2025-09-17T19:06:18.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PROG6212-POE\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jarre\\OneDrive\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212-POE\\PROG6212-POE\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PROG6212-POE\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAKUAAAAAAAAAAAAIwL8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T16:58:31.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T16:58:31.47Z"
             }
           ]
         }
